@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            128.20907592773438,
+            26.76890897295933
+          ],
+          [
+            128.30039978027344,
+            26.72046707331258
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "マングースとめろ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.26847076416016,
+          26.736718871555837
+        ]
+      }
+    }
+  ]
+}
